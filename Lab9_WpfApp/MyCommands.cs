@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace Lab9_WpfApp
+namespace Lab13_WpfApp
 {
     class MyCommands
     {

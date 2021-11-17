@@ -16,7 +16,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 
-namespace Lab9_WpfApp
+namespace Lab13_WpfApp
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
